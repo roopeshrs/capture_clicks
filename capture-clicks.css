@@ -45,7 +45,7 @@
     height: 100px;
     font-size: 16px;
     scrollbar-width: normal;
-    scrollbar-color: red yellow;
+    scrollbar-color: #64748b #cbd5e1;
 }
 
 .widget form textarea::-webkit-scrollbar{
